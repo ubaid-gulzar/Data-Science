@@ -1,0 +1,12 @@
+id,name,age,country,gender
+1,john doe,29,usa,male
+1,john doe,29,usa,male
+2,jane smith,,canada,female
+3,alex,,usa,unknown
+4,maria garcia,43,spain,female
+5,li wei,27,china,male
+6,,45,india,female
+7,ahmad khan,38,,male
+8,rachellee,29,usa,female
+9,carlos ruiz,,maxico,male
+10,emily davis,31,usa,
