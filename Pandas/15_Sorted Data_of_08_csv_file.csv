@@ -1,0 +1,11 @@
+,id,name,age,country,gender,income
+0,4,maria garcia,43.0,spain,female,0.0
+1,9,carlos ruiz,0.0,maxico,male,45000.0
+2,3,alex,0.0,usa,male,47000.0
+3,5,li wei,27.0,china,male,51000.0
+4,1,john doe,29.0,usa,male,55000.0
+5,10,emily davis,31.0,usa,male,58000.0
+6,2,jane smith,0.0,canada,female,62000.0
+7,8,rachellee,29.0,usa,female,62000.0
+8,7,ahmad khan,38.0,unknown,male,68000.0
+9,6,unknown,45.0,india,female,73000.0

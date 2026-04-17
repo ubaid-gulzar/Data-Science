@@ -1,0 +1,12 @@
+id,name,age,country,gender,income
+1,john doe,29,usa,male,55000
+1,john doe,29,usa,male,55000
+2,jane smith,23,canada,female,62000
+3,alex,64,usa,unknown,47000
+4,maria garcia,43,spain,female,27000
+5,li wei,27,china,male,51000
+6,,45,india,female,73000
+7,ahmad khan,38,,male,68000
+8,rachellee,29,usa,female,62000
+9,carlos ruiz,11,maxico,male,45000
+10,emily davis,31,usa,,58000
