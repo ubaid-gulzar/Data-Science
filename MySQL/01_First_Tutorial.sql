@@ -1,0 +1,18 @@
+CREATE DATABASE college;
+CREATE DATABASE xyz;
+DROP DATABASE xyz;
+USE college;
+CREATE TABLE STUDENT(
+    roll_no INT,
+    name VARCHAR(30),
+    age INT
+);
+INSERT INTO STUDENT
+values
+(101,"adam",12),
+(102,"bob",11),
+(103,"ubaid",14);
+SELECT * FROM STUDENT;
+CREATE DATABASE IF NOT EXISTS college;
+DROP DATABASE IF EXISTS college;
+SHOW DATABASES;
